@@ -8,7 +8,7 @@
 ``` sh
 conda create -n pi python=3
 conda activate pi
-conda install -c conda-forge opencv
+conda install -c conda-forge opencv matplotlib
 conda install -c anaconda ipykernel jupyter
 python -m ipykernel install --user --name pi --display-name "PI env"
 ```
