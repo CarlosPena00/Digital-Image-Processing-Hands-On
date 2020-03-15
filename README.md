@@ -18,3 +18,6 @@ python -m ipykernel install --user --name pi --display-name "PI env"
 ### Jupyter 
 > jupyter notebook 
 (or jupyter lab)
+
+### View Notebook in nbviewer
+> [CH02](https://nbviewer.jupyter.org/github/CarlosPena00/Digital-Image-Processing-Hands-On/blob/master/src/chapter02.ipynb)
