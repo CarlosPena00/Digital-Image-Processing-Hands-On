@@ -21,3 +21,6 @@ python -m ipykernel install --user --name pi --display-name "PI env"
 
 ### View Notebook in nbviewer
 > [CH02](https://nbviewer.jupyter.org/github/CarlosPena00/Digital-Image-Processing-Hands-On/blob/master/src/chapter02.ipynb)
+
+### Exemple
+![](data/ch02_noise.gif)
