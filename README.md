@@ -18,12 +18,12 @@ jupyter notebook //(or jupyter lab)
 ### View Notebook in nbviewer
 > [CH02](https://nbviewer.jupyter.org/github/CarlosPena00/Digital-Image-Processing-Hands-On/blob/master/notebooks/chapter02.ipynb)
 
-### Example
-* CH02 - Noise
+## Example
+* CH02
 
 ![](data/ch02_noise.gif) ![](data/ch02_color.gif)
 
-### Scripts
+## Scripts
 
 
 ```
