@@ -21,7 +21,7 @@ jupyter notebook //(or jupyter lab)
 ### Example
 * CH02 - Noise
 
-![](data/ch02_noise.gif)
+![](data/ch02_noise.gif) ![](data/ch02_color.gif)
 
 ### Scripts
 
