@@ -24,6 +24,7 @@ jupyter notebook //(or jupyter lab)
 ![](data/ch02_noise.gif) ![](data/ch02_color.gif)
 
 * CH05
+
 ![](data/ch05_adaptive.gif)
 
 ## Scripts
