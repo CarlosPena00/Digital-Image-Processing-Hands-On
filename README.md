@@ -33,4 +33,6 @@ jupyter notebook //(or jupyter lab)
 ```
 python scripts/chapter02-color_quantization.py -i data/Lenna.png
 python scripts/chapter02-noise_removal.py -i data/Lenna.png
+python scripts/chapter05-adaptive_median_filter.py -i data/Lenna.png
+
 ```
